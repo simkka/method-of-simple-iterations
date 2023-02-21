@@ -1,5 +1,5 @@
 <h1>Programming project - C++ - numerical methods</h1>
-<h2>Method of simple iterations</h2>
+<h2>Method of simple iterations and Newton's method</h2>
 
 <h2>Description</h2>
 
